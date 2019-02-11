@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nmolitor
+ *
+ */
+module MadLibs {
+}
